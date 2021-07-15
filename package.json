@@ -1,5 +1,5 @@
 {
-  "name": "grafana-trackmap-panel",
+  "name": "yamiljuri-map-panel",
   "version": "1.0.0",
   "description": "A plugin for Grafana that visualizes GPS points as a line on an interactive map.",
   "main": "src/module.js",
