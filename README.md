@@ -1,4 +1,4 @@
-TrackMap Panel for Grafana
+Map Panel for Grafana
 ==========================
 A panel for [Grafana](https://grafana.com/) that visualizes GPS points as a line on an interactive map.
 
